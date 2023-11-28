@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\bin\Debug\Snowflake.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\bin\Debug\Snowflake.exe
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\bin\Debug\Snowflake.pdb
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\obj\Debug\Snowflake.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\obj\Debug\Snowflake.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\obj\Debug\Snowflake.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\obj\Debug\Snowflake.exe
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\obj\Debug\Snowflake.pdb
+c:\users\user\documents\visual studio 2013\Projects\Snowflake\Snowflake\obj\Debug\Snowflake.Form1.resources
